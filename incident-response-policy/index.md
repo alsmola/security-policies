@@ -13,6 +13,8 @@ Tailscale’s customers are dependent on our services operating as normal. Prope
 The following minimum standards apply to Tailscale’s assets as managed by employees, contractors and vendors. These recommendations represent the recommended minimum efforts necessary for incident detection and response.
 
 ### Incident detection
+[https://alsmola.github.io/graphgrc/soc2/cc73.html](https://alsmola.github.io/graphgrc/soc2/cc73.html)
+[https://alsmola.github.io/graphgrc/soc2/cc74.html](https://alsmola.github.io/graphgrc/soc2/cc74.html)
 
 An incident could be detected internally by an employee in their course of work, by an employee or vendor doing a review of Tailscale’s security posture, or an external third party reporting a potential vulnerability to us.
 
@@ -39,9 +41,12 @@ The Security Review Team:
 Tailscale’s Security Review Team reviews and responds to potential third-party reports of security issues to [security@tailscale.com](mailto:security@tailscale.com) promptly.
 
 ### Incident response and remediation
+[https://alsmola.github.io/graphgrc/soc2/cc73.html](https://alsmola.github.io/graphgrc/soc2/cc73.html)
 
 If a suspected incident is detected, it should be responded to following the [Incident response process](/security-policies/incident-response-process/).
 
 We respond to reported incidents, and resolve and determine impact as soon as possible. We aim to remediate incidents as soon as possible.
 
 Confirmed incidents may be disclosed publicly per our [disclosure policy](/security-policies/incident-disclosure/).
+
+

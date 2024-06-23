@@ -15,6 +15,7 @@ This patch management policy applies to Tailscale’s infrastructure, including 
 This patch management policy also applies to the software Tailscale ships to customers.
 
 ### Vulnerability and patch detection
+[https://alsmola.github.io/graphgrc/soc2/a13.html](https://alsmola.github.io/graphgrc/soc2/a13.html)
 
 In order to detect potential vulnerabilities, the Security Review Team:
 
@@ -25,17 +26,22 @@ Where automated patch rollout is available, e.g., auto-updates on iOS devices, i
 
 
 ### Review and approval
+[https://alsmola.github.io/graphgrc/soc2/cc32.html](https://alsmola.github.io/graphgrc/soc2/cc32.html)
 
 Security patches can be applied without further approval.
 
 ### Schedule
+[https://alsmola.github.io/graphgrc/soc2/cc68.html](https://alsmola.github.io/graphgrc/soc2/cc68.html)
 
 Tailscale should review any new security patches when they are released by vendors, or when building a new release, which in practice is about monthly.
 
 Tailscale should patch security vulnerabilities as soon as possible. The expected timeline for remediation, from when a patch is available to when it is applied, is 90 days.
 
 ### Mitigations
+[https://alsmola.github.io/graphgrc/soc2/cc42.html](https://alsmola.github.io/graphgrc/soc2/cc42.html)
+[https://alsmola.github.io/graphgrc/soc2/cc81.html](https://alsmola.github.io/graphgrc/soc2/cc81.html)
 
 Where a patch is not yet available, or cannot be applied, Tailscale should put in place mitigations as appropriate to prevent a vulnerability from being exploited. Tailscale should also put in place mitigations if a vulnerability is known to be actively exploited in the wild.
 
 Mitigations can include: removing functionality, limiting who can access a service, or taking down a service.
+

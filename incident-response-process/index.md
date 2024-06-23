@@ -34,6 +34,7 @@ If an incident affects customers, including their data or their ability to use
 Tailscale, Tailscale may choose to proactively communicate the issue publicly.
 
 ### Incident recovery
+[https://alsmola.github.io/graphgrc/soc2/cc74.html](https://alsmola.github.io/graphgrc/soc2/cc74.html)
 
 If data or processes were disrupted by the incident, then the [BCP/DR policy](/security-policies/bcp-dr/)
 should be followed to remediate the issue.
@@ -52,6 +53,9 @@ Commander’s responsibility to ensure that
   risks should be added to the risk register.
 
 ### Incident classification
+[https://alsmola.github.io/graphgrc/soc2/cc75.html](https://alsmola.github.io/graphgrc/soc2/cc75.html)
+[https://alsmola.github.io/graphgrc/soc2/cc91.html](https://alsmola.github.io/graphgrc/soc2/cc91.html)
+[https://alsmola.github.io/graphgrc/soc2/cc74.html](https://alsmola.github.io/graphgrc/soc2/cc74.html)
 
 An incident is an adverse event which affects Tailscale’s infrastructure or
 business operations in such a way that it compromises our ability to deliver
@@ -92,3 +96,5 @@ Incidents can be classified based on their severity:
     </td>
   </tr>
 </table>
+
+

@@ -15,6 +15,8 @@ For incidents that fall under any legal disclosure requirements (such as [Califo
 By “notify” here we mean explicitly contacting users in addition to regular release notes in the [changelog](https://tailscale.com/changelog/) and GitHub commit history. For example, you may read about minor vulnerability patches in release notes, but we may not notify users via a dedicated security bulletin.
 
 ### When we notify users
+[https://alsmola.github.io/graphgrc/soc2/cc74.html](https://alsmola.github.io/graphgrc/soc2/cc74.html)
+[https://alsmola.github.io/graphgrc/soc2/p66.html](https://alsmola.github.io/graphgrc/soc2/p66.html)
 
 Generally, we aim to reduce noise and only notify users for actionable incidents. Tailscale does not notify users for routine security patching of dependencies. We also don’t notify users for vulnerabilities in our software, if we confirm the vulnerability was not exploited and no users were affected.
 
@@ -30,9 +32,12 @@ We will **notify users directly** about a security vulnerability when we can con
 * We can confirm that tailnet metadata or data was visible to an unauthorized party.
 
 ### How we notify users
+[https://alsmola.github.io/graphgrc/soc2/p52.html](https://alsmola.github.io/graphgrc/soc2/p52.html)
 
 To disclose security vulnerabilities, Tailscale publishes security bulletins publicly for a broad audience at [https://tailscale.com/security-bulletins/](https://tailscale.com/security-bulletins/). These can be consumed directly, via RSS readers or via social media bot accounts.
 
 To notify users about security vulnerabilities, Tailscale will **email** affected tailnets’ administrators, with information specific to the tailnet, including specific users or nodes which are affected. These emails will be sent to the [security contact](https://tailscale.com/kb/1224/contact-preferences/#setting-the-security-issues-email) for the tailnet, which by default is the Owner of the tailnet.
 
 Occasionally, Tailscale may decide to notify users in additional ways about a security issue, such as by publishing a [blog post](https://tailscale.com/blog/), or with in-product notifications (such as by putting a warning banner in the admin console).
+
+

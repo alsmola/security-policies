@@ -13,10 +13,12 @@ Tailscale must retain certain kinds of data for a minimum amount of time, to com
 This policy applies to all data assets handled by Tailscale, including data from customers, potential customers, third parties, and employees.
 
 ### Schedule
+[https://alsmola.github.io/graphgrc/soc2/cc11.html](https://alsmola.github.io/graphgrc/soc2/cc11.html)
 
 Tailscale should review the data it retains as part of reviewing its data register quarterly.
 
 ### Retention period
+[https://alsmola.github.io/graphgrc/soc2/cc21.html](https://alsmola.github.io/graphgrc/soc2/cc21.html)
 
 Data should be retained for a set period of time, depending on the type of data:
 
@@ -212,9 +214,13 @@ Data should be retained for a set period of time, depending on the type of data:
 Where not specified, customer data should be retained no longer than is needed to provide the service, and anonymized or deleted afterwards.
 
 ### Privacy Policy
+[https://alsmola.github.io/graphgrc/soc2/p42.html](https://alsmola.github.io/graphgrc/soc2/p42.html)
+[https://alsmola.github.io/graphgrc/soc2/c12.html](https://alsmola.github.io/graphgrc/soc2/c12.html)
 
 Tailscale must delete customer data in accordance with the commitments, if any, made in [Tailscale’s Privacy Policy](/privacy-policy/). If the privacy policy is updated, the above retention periods should also be updated to reflect any changes.
 
 ### Deletion method
+[https://alsmola.github.io/graphgrc/soc2/p43.html](https://alsmola.github.io/graphgrc/soc2/p43.html)
 
 Data may be destroyed by overwriting on disk, deleting a cloud resource, encrypting and destroying the key, resetting a device, and/or physical destruction.
+

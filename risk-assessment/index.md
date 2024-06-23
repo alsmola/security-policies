@@ -14,6 +14,7 @@ This policy covers any risk that could affect confidentiality, availability, and
 Risk assessments can be conducted on any information system, to include applications, servers, and networks, and any process or procedure by which these systems are administered and/or maintained.
 
 ### Risk assessment
+[https://alsmola.github.io/graphgrc/soc2/cc32.html](https://alsmola.github.io/graphgrc/soc2/cc32.html)
 The Security Review Team is responsible for completing periodic information security risk assessments for the purpose of determining areas of vulnerability, and to identify and initiate appropriate remediations.
 
 A risk register should include:
@@ -25,4 +26,9 @@ A risk register should include:
 The execution, development and implementation of remediation programs is the joint responsibility of the Security Review Team. Employees are expected to cooperate fully with any risk assessment being conducted on systems for which they are held accountable. Employees are further expected to work with the Security Review Team in the development and implementation of a remediation plan.
 
 ### Schedule
+[https://alsmola.github.io/graphgrc/soc2/cc32.html](https://alsmola.github.io/graphgrc/soc2/cc32.html)
+[https://alsmola.github.io/graphgrc/soc2/cc41.html](https://alsmola.github.io/graphgrc/soc2/cc41.html)
+[https://alsmola.github.io/graphgrc/soc2/cc42.html](https://alsmola.github.io/graphgrc/soc2/cc42.html)
 Risks should be evaluated on an annual basis.
+
+

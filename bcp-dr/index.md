@@ -15,11 +15,18 @@ Tailscale’s customers are dependent on our services operating as normal. Prope
 The following minimum standards apply to Tailscale’s assets as managed by employees, contractors and vendors. These include but are not limited to: cloud service providers, cloud regions, major components within cloud regions, key vendors (those included in our [vendor assessment](/security-policies/vendor/), and key open-source components.
 
 ### Schedule
+[https://alsmola.github.io/graphgrc/soc2/cc52.html](https://alsmola.github.io/graphgrc/soc2/cc52.html)
+[https://alsmola.github.io/graphgrc/soc2/cc71.html](https://alsmola.github.io/graphgrc/soc2/cc71.html)
+[https://alsmola.github.io/graphgrc/soc2/cc81.html](https://alsmola.github.io/graphgrc/soc2/cc81.html)
+[https://alsmola.github.io/graphgrc/soc2/cm8.html](https://alsmola.github.io/graphgrc/soc2/cm8.html)
 
 Tailscale reviews its backups, and any BCP/DR plans annually with a walkthrough exercise. Tailscale tests its ability to restore production data at least annually.
 
 
 ### Backups
+[https://alsmola.github.io/graphgrc/soc2/a12.html](https://alsmola.github.io/graphgrc/soc2/a12.html)
+[https://alsmola.github.io/graphgrc/soc2/cc75.html](https://alsmola.github.io/graphgrc/soc2/cc75.html)
+[https://alsmola.github.io/graphgrc/soc2/a13.html](https://alsmola.github.io/graphgrc/soc2/a13.html)
 
 Tailscale regularly reviews backups and service redundancy to ensure they can be used in the event of an outage. The Security Review Team:
 
@@ -29,9 +36,18 @@ Tailscale regularly reviews backups and service redundancy to ensure they can be
 * Implements monitoring tools to detect potential continuity issues for key services
 
 ### Outage detection
+[https://alsmola.github.io/graphgrc/soc2/a12.html](https://alsmola.github.io/graphgrc/soc2/a12.html)
+[https://alsmola.github.io/graphgrc/soc2/cc75.html](https://alsmola.github.io/graphgrc/soc2/cc75.html)
 
 An incident could be detected internally by monitoring tools, by an employee in their course of work, or reported by a third party including customers.
 
 ### Outage response and remediation
+[https://alsmola.github.io/graphgrc/soc2/cc72.html](https://alsmola.github.io/graphgrc/soc2/cc72.html)
+[https://alsmola.github.io/graphgrc/soc2/cc73.html](https://alsmola.github.io/graphgrc/soc2/cc73.html)
+[https://alsmola.github.io/graphgrc/soc2/cc74.html](https://alsmola.github.io/graphgrc/soc2/cc74.html)
+[https://alsmola.github.io/graphgrc/soc2/p63.html](https://alsmola.github.io/graphgrc/soc2/p63.html)
+[https://alsmola.github.io/graphgrc/soc2/p67.html](https://alsmola.github.io/graphgrc/soc2/p67.html)
 
 If a suspected outage or other business continuity incident is detected, it should be responded to following the [Incident response process](/security-policies/incident-response-process).
+
+

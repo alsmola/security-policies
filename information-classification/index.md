@@ -11,6 +11,8 @@ To understand its potential exposure from a security risk, issue or incident, Ta
 Assets are anything that has value to the organization, including but not limited to, customer data, production data, financial data, intellectual property, and any material non-public information.
 
 ### Asset cataloging
+[https://alsmola.github.io/graphgrc/soc2/cc21.html](https://alsmola.github.io/graphgrc/soc2/cc21.html)
+[https://alsmola.github.io/graphgrc/soc2/c11.html](https://alsmola.github.io/graphgrc/soc2/c11.html)
 
 Tailscale catalogues assets with several pieces of information, to help identify the potential risk of the asset. Information collected is as follows:
 
@@ -24,6 +26,9 @@ If new data is catalogued, or data use changes, it should be specifically review
 
 
 ### Asset risk classification
+[https://alsmola.github.io/graphgrc/soc2/cc21.html](https://alsmola.github.io/graphgrc/soc2/cc21.html)
+[https://alsmola.github.io/graphgrc/soc2/c11.html](https://alsmola.github.io/graphgrc/soc2/c11.html)
+[https://alsmola.github.io/graphgrc/soc2/cc32.html](https://alsmola.github.io/graphgrc/soc2/cc32.html)
 
 Tailscale classifies assets into three risk categories: **Low Risk**, **Medium Risk**, and **High Risk**. Definitions are as follows:
 
@@ -75,5 +80,9 @@ Tailscale classifies assets into three risk categories: **Low Risk**, **Medium R
 When multiple classifications may apply, the highest applicable classification is used. For example, if a machine is low-risk by itself, but can be used to access high-risk data, its overall classification is also high-risk.
 
 ### Schedule
+[https://alsmola.github.io/graphgrc/soc2/cc32.html](https://alsmola.github.io/graphgrc/soc2/cc32.html)
+[https://alsmola.github.io/graphgrc/soc2/ast041.html](https://alsmola.github.io/graphgrc/soc2/ast041.html)
+[https://alsmola.github.io/graphgrc/soc2/cc32.html](https://alsmola.github.io/graphgrc/soc2/cc32.html)
 
 Tailscale should review the data it collects and processes, and update the data register, quarterly.
+

@@ -1,4 +1,9 @@
-# Tailscale Security Policies
+# GraphGRC-enhanced Tailscale Security Policies
+
+### GraphGRC compliance validation generation
+This fork of the [tailscale/security-policies](https://github.com/tailscale/security-policies) repo showcases how [alsmola/graphgrc](https://github.com/alsmola/graphgrc/) can be used to automate compliance analysis. Each policy is annotated with relevant links to SOC 2 documentation, powered by Amazon Bedrock and Anthropic Claude 3.5.
+
+---
 
 Tailscale has several security policies in place to properly identify, respond to, and mitigate potential security risks. All employees, vendors and contractors working with Tailscale must follow these policies in order to best protect Tailscale’s and its customers’ data.
 

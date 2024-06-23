@@ -13,6 +13,7 @@ Tailscale reviews vendor security practices before contracting, and on a regular
 This policy only applies to vendors or contractors handling Tailscale or its customers’ data.
 
 ### Schedule
+[https://alsmola.github.io/graphgrc/soc2/p64.html](https://alsmola.github.io/graphgrc/soc2/p64.html)
 
 Vendors’ security practices should be initially evaluated as part of their contract review, and while still in use, on an annual basis.
 
@@ -20,6 +21,9 @@ Contractors must read and acknowledge Tailscale’s security policies as part of
 
 
 ### Vendor assessment
+[https://alsmola.github.io/graphgrc/soc2/cc11.html](https://alsmola.github.io/graphgrc/soc2/cc11.html)
+[https://alsmola.github.io/graphgrc/soc2/cc92.html](https://alsmola.github.io/graphgrc/soc2/cc92.html)
+[https://alsmola.github.io/graphgrc/soc2/cc23.html](https://alsmola.github.io/graphgrc/soc2/cc23.html)
 
 As part of vendor evaluation and contracting, vendors’ security practices should be reviewed to ensure they sufficiently protect Tailscale’s and its customers’ data.
 
@@ -38,3 +42,5 @@ Tailscale will document vendor information, to help in case of a potential incid
 * **Type of data shared**, i.e. What types of data from Tailscale does the vendor collect or otherwise have access to?
 * **Terms of Service** for services provided by the vendor
 * **Security report or questionnaire** shared by the vendor
+
+
